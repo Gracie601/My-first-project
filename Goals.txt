@@ -1,0 +1,4 @@
+1. To be a seasoned ethical hacker.
+2. Understanding the threat landscape along with the defense-in-depth approaches.
+3. Ensuring both organizational and individual sensitive datas are kept secure.
+4. Ability to penetrate and defend perimeters.
